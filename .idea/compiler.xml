@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBoot-API" />
         <module name="SpringBoot-Consumer" />
+        <module name="SpringBoot-Eureka" />
         <module name="SpringBoot-Production" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="SpringBoot" target="1.8" />
       <module name="SpringBoot-API" target="1.8" />
       <module name="SpringBoot-Consumer" target="1.8" />
+      <module name="SpringBoot-Eureka" target="1.8" />
       <module name="SpringBoot-Production" target="1.8" />
     </bytecodeTargetLevel>
   </component>
